@@ -31,6 +31,14 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    # apps'n stuff
+
+    # features
+    'django-rest',
+
+    # security
+
+    # defaults
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
